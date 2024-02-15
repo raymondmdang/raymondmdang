@@ -14,36 +14,36 @@ jobs:
         with:
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
-          # GITHUB_TOKEN is a special auto-generated token used for commits
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_branch: metrics
-          committer_message: "build: update `${filename}`"
+          # # GITHUB_TOKEN is a special auto-generated token used for commits
+          # committer_token: ${{ secrets.GITHUB_TOKEN }}
+          # committer_branch: metrics
+          # committer_message: "build: update `${filename}`"
 
           # General
-          filename: metrics.svg
+          # filename: metrics.svg
           template: classic
           base: header, activity, community
           config_timezone: America/Los_Angeles
 
-          # Calendar
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          # # Calendar
+          # plugin_isocalendar: yes
+          # plugin_isocalendar_duration: half-year
 
-          # Languages
-          plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_analysis_timeout_repositories: 7.5
-          plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
-          plugin_languages_limit: 8
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
-          plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
+          # # Languages
+          # plugin_languages: yes
+          # plugin_languages_analysis_timeout: 15
+          # plugin_languages_analysis_timeout_repositories: 7.5
+          # plugin_languages_categories: markup, programming
+          # plugin_languages_colors: github
+          # plugin_languages_limit: 8
+          # plugin_languages_recent_categories: markup, programming
+          # plugin_languages_recent_days: 14
+          # plugin_languages_recent_load: 300
+          # plugin_languages_sections: most-used
+          # plugin_languages_threshold: 0%
 
-          # Starred topics
-          plugin_topics: yes
-          plugin_topics_limit: 15
-          plugin_topics_mode: icons
-          plugin_topics_sort: stars
+          # # Starred topics
+          # plugin_topics: yes
+          # plugin_topics_limit: 15
+          # plugin_topics_mode: icons
+          # plugin_topics_sort: stars

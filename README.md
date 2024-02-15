@@ -1,3 +1,7 @@
+<a href="https://app.daily.dev/raymondmdang">
+  <img src="https://raw.githubusercontent.com/raymondmdang/raymondmdang/devcard/devcard.png" width="400" alt="Devcard"/>
+</a>
+
 [![holopin profile](https://holopin.me/raymondmdang)](https://holopin.io/@raymondmdang)
 
 <div id="badges" align="center">

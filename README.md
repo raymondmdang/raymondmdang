@@ -1,4 +1,10 @@
 <div>
+  <img src="https://raw.githubusercontent.com/raymondmdang/raymondmdang/metrics/stats.svg" alt="Stats"/>
+  <a href="https://app.daily.dev/raymondmdang">
+    <img src="https://raw.githubusercontent.com/raymondmdang/raymondmdang/devcard/devcard.png" width="256" alt="Devcard" align="right"/>
+  </a>
+  </div>
+  <img src="https://raw.githubusercontent.com/raymondmdang/raymondmdang/metrics/calendar.svg" alt="Calendar"/>
   <div id="badges" align="center">
     <a href="https://linkedin.com/in/raymondmdang">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin url"/>
@@ -7,12 +13,7 @@
       <img src="https://img.shields.io/badge/Gitlab-orange?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab url"/>
     </a>
   </div>
-  <img src="https://raw.githubusercontent.com/raymondmdang/raymondmdang/metrics/stats.svg" alt="Stats"/>
-  <a href="https://app.daily.dev/raymondmdang">
-    <img src="https://raw.githubusercontent.com/raymondmdang/raymondmdang/devcard/devcard.png" width="256" alt="Devcard" align="right"/>
-  </a>
-  </div>
-  <img src="https://raw.githubusercontent.com/raymondmdang/raymondmdang/metrics/calendar.svg" alt="Calendar"/>
+  <br/>
   <div align="center">
     <img src="https://raw.githubusercontent.com/raymondmdang/raymondmdang/metrics/languages.svg" alt="Languages" align="center"/>
   </div>

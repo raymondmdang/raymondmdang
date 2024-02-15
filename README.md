@@ -1,7 +1,7 @@
 <div>
   <img src="https://raw.githubusercontent.com/raymondmdang/raymondmdang/metrics/stats.svg" alt="Stats"/>
   <a href="https://app.daily.dev/raymondmdang">
-    <img src="https://raw.githubusercontent.com/raymondmdang/raymondmdang/devcard/devcard.png" width="256" alt="Devcard" align="right"/>
+    <img src="https://raw.githubusercontent.com/raymondmdang/raymondmdang/devcard/devcard.png" width="325" alt="Devcard" align="right"/>
   </a>
   </div>
   <img src="https://raw.githubusercontent.com/raymondmdang/raymondmdang/metrics/calendar.svg" alt="Calendar"/>

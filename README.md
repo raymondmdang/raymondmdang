@@ -1,3 +1,6 @@
+
+![metrics](https://raw.githubusercontent.com/raymondmdang/raymondmdang/metrics/metrics.svg)
+
 <a href="https://app.daily.dev/raymondmdang">
   <img src="https://raw.githubusercontent.com/raymondmdang/raymondmdang/devcard/devcard.png" width="400" alt="Devcard"/>
 </a>

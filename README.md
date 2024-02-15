@@ -1,5 +1,8 @@
 
-![metrics](https://raw.githubusercontent.com/raymondmdang/raymondmdang/metrics/metrics.svg)
+![stats](https://raw.githubusercontent.com/raymondmdang/raymondmdang/metrics/stats.svg)
+![calendar](https://raw.githubusercontent.com/raymondmdang/raymondmdang/metrics/calendar.svg)
+![languages](https://raw.githubusercontent.com/raymondmdang/raymondmdang/metrics/languages.svg)
+![topics](https://raw.githubusercontent.com/raymondmdang/raymondmdang/metrics/topics.svg)
 
 <a href="https://app.daily.dev/raymondmdang">
   <img src="https://raw.githubusercontent.com/raymondmdang/raymondmdang/devcard/devcard.png" width="400" alt="Devcard"/>

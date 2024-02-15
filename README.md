@@ -13,8 +13,12 @@
   </a>
   </div>
   <img src="https://raw.githubusercontent.com/raymondmdang/raymondmdang/metrics/calendar.svg" alt="Calendar"/>
-  <img src="https://raw.githubusercontent.com/raymondmdang/raymondmdang/metrics/languages.svg" alt="Languages"/>
-  <img src="https://raw.githubusercontent.com/raymondmdang/raymondmdang/metrics/topics.svg" alt="Topics"/>
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/raymondmdang/raymondmdang/metrics/languages.svg" alt="Languages" align="center"/>
+  </div>
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/raymondmdang/raymondmdang/metrics/topics.svg" alt="Topics"/>
+  </div>
 </div>
 
 [![holopin profile](https://holopin.me/raymondmdang)](https://holopin.io/@raymondmdang)

@@ -5,17 +5,15 @@
   </a>
   </div>
   <img src="https://raw.githubusercontent.com/raymondmdang/raymondmdang/metrics/calendar.svg" alt="Calendar"/>
-  <div id="views" align="center">
-    <a href="https://github.com/raymondmdang">
-      <img src="https://komarev.com/ghpvc/?username=raymondmdang" alt="Github url">
-    </a>
-  </div>
   <div id="badges" align="center">
     <a href="https://linkedin.com/in/raymondmdang">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin url"/>
     </a>
     <a href="https://gitlab.com/raymondmdang">
       <img src="https://img.shields.io/badge/Gitlab-orange?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab url"/>
+    </a>
+    <a href="https://github.com/raymondmdang">
+      <img src="https://komarev.com/ghpvc/?username=raymondmdang&style=for-the-badge" alt="Github url">
     </a>
   </div>
   <br/>

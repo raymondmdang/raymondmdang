@@ -6,6 +6,9 @@
   </div>
   <img src="https://raw.githubusercontent.com/raymondmdang/raymondmdang/metrics/calendar.svg" alt="Calendar"/>
   <div id="badges" align="center">
+    <a href="https://github.com/raymondmdang">
+     <img src="https://komarev.com/ghpvc/?username=raymondmdang" alt="Github url">
+    </a>
     <a href="https://linkedin.com/in/raymondmdang">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin url"/>
     </a>

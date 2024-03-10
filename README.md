@@ -12,6 +12,9 @@
     <a href="https://gitlab.com/raymondmdang">
       <img src="https://img.shields.io/badge/Gitlab-orange?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab url"/>
     </a>
+    <a href="https://github.com/raymondmdang">
+      <img src="https://komarev.com/ghpvc/?username=raymondmdang&style=for-the-badge" alt="Github url">
+    </a>
   </div>
   <br/>
   <div align="center">
